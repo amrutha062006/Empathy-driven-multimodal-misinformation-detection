@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env/
+.env
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Editors / tooling
+.vscode/
+.idea/
+
+# Data and outputs
+data/raw/
+data/processed/
+results/
+checkpoints/
+outputs/
+logs/
+wandb/
+
+# OS cruft
+.DS_Store
+Thumbs.db
